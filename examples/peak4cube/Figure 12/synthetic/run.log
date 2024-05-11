@@ -1,0 +1,51 @@
+*********************** AMR Loop 1**********************
+Number of tetrahedral elements: 21672
+Degrees of Freedom (DOFs): 5085
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.00948945
+errors.mean(): 0.000321917
+*********************** AMR Loop 2**********************
+Number of tetrahedral elements: 38426
+Degrees of Freedom (DOFs): 8174
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.00264836
+errors.mean(): 0.000129082
+*********************** AMR Loop 3**********************
+Number of tetrahedral elements: 52670
+Degrees of Freedom (DOFs): 10735
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.00079802
+errors.mean(): 7.74381e-05
+*********************** AMR Loop 4**********************
+Number of tetrahedral elements: 75333
+Degrees of Freedom (DOFs): 14837
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.000322211
+errors.mean(): 4.08572e-05
+*********************** AMR Loop 5**********************
+Number of tetrahedral elements: 110383
+Degrees of Freedom (DOFs): 21203
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.000125377
+errors.mean(): 1.77354e-05
+the calculation time for this mesh is:	15.3016 seconds

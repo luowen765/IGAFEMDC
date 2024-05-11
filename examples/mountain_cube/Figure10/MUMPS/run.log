@@ -1,0 +1,261 @@
+*********************** AMR Loop 1**********************
+Number of tetrahedral elements: 5328
+Degrees of Freedom (DOFs): 1153
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 98462.5
+errors.mean(): 1273.46
+*********************** AMR Loop 2**********************
+Number of tetrahedral elements: 5841
+Degrees of Freedom (DOFs): 1260
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 16368.3
+errors.mean(): 287.79
+*********************** AMR Loop 3**********************
+Number of tetrahedral elements: 12108
+Degrees of Freedom (DOFs): 2446
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 6310.95
+errors.mean(): 73.3421
+*********************** AMR Loop 4**********************
+Number of tetrahedral elements: 13408
+Degrees of Freedom (DOFs): 2686
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 1600.35
+errors.mean(): 31.3182
+*********************** AMR Loop 5**********************
+Number of tetrahedral elements: 14001
+Degrees of Freedom (DOFs): 2804
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 918.037
+errors.mean(): 12.1847
+*********************** AMR Loop 6**********************
+Number of tetrahedral elements: 14618
+Degrees of Freedom (DOFs): 2927
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 120.1
+errors.mean(): 3.32384
+*********************** AMR Loop 7**********************
+Number of tetrahedral elements: 16019
+Degrees of Freedom (DOFs): 3185
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 81.7551
+errors.mean(): 2.30395
+*********************** AMR Loop 8**********************
+Number of tetrahedral elements: 16734
+Degrees of Freedom (DOFs): 3321
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 46.4175
+errors.mean(): 1.2661
+*********************** AMR Loop 9**********************
+Number of tetrahedral elements: 17188
+Degrees of Freedom (DOFs): 3409
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 7.98212
+errors.mean(): 0.327398
+*********************** AMR Loop 10**********************
+Number of tetrahedral elements: 18152
+Degrees of Freedom (DOFs): 3588
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 5.55242
+errors.mean(): 0.159629
+*********************** AMR Loop 11**********************
+Number of tetrahedral elements: 18700
+Degrees of Freedom (DOFs): 3688
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.84075
+errors.mean(): 0.0442569
+*********************** AMR Loop 12**********************
+Number of tetrahedral elements: 19105
+Degrees of Freedom (DOFs): 3769
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.600753
+errors.mean(): 0.0434253
+*********************** AMR Loop 13**********************
+Number of tetrahedral elements: 22076
+Degrees of Freedom (DOFs): 4320
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.0711073
+errors.mean(): 0.00405637
+*********************** AMR Loop 14**********************
+Number of tetrahedral elements: 23274
+Degrees of Freedom (DOFs): 4540
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.0376602
+errors.mean(): 0.00174749
+*********************** AMR Loop 15**********************
+Number of tetrahedral elements: 23858
+Degrees of Freedom (DOFs): 4667
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.00671709
+errors.mean(): 0.000549248
+*********************** AMR Loop 16**********************
+Number of tetrahedral elements: 25005
+Degrees of Freedom (DOFs): 4897
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.00213244
+errors.mean(): 0.000131398
+*********************** AMR Loop 17**********************
+Number of tetrahedral elements: 26826
+Degrees of Freedom (DOFs): 5230
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.00175036
+errors.mean(): 0.000124018
+*********************** AMR Loop 18**********************
+Number of tetrahedral elements: 28991
+Degrees of Freedom (DOFs): 5628
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.000336561
+errors.mean(): 2.67428e-05
+*********************** AMR Loop 19**********************
+Number of tetrahedral elements: 32113
+Degrees of Freedom (DOFs): 6219
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 0.000109693
+errors.mean(): 8.7978e-06
+*********************** AMR Loop 20**********************
+Number of tetrahedral elements: 35443
+Degrees of Freedom (DOFs): 6850
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 1.54e-05
+errors.mean(): 1.73238e-06
+*********************** AMR Loop 21**********************
+Number of tetrahedral elements: 40999
+Degrees of Freedom (DOFs): 7859
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 8.03735e-06
+errors.mean(): 9.42587e-07
+*********************** AMR Loop 22**********************
+Number of tetrahedral elements: 48152
+Degrees of Freedom (DOFs): 9167
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 4.14211e-06
+errors.mean(): 3.32621e-07
+*********************** AMR Loop 23**********************
+Number of tetrahedral elements: 52014
+Degrees of Freedom (DOFs): 9893
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 3.88062e-07
+errors.mean(): 3.95044e-08
+*********************** AMR Loop 24**********************
+Number of tetrahedral elements: 54903
+Degrees of Freedom (DOFs): 10426
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 1.38091e-07
+errors.mean(): 1.54029e-08
+*********************** AMR Loop 25**********************
+Number of tetrahedral elements: 61943
+Degrees of Freedom (DOFs): 11691
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 8.03268e-08
+errors.mean(): 1.09576e-08
+*********************** AMR Loop 26**********************
+Number of tetrahedral elements: 67628
+Degrees of Freedom (DOFs): 12741
+start assemble primal problem
+start solve primal problem
+Post processing...
+start assemble dual problem  
+if_compute_P2: true
+errors.Max(): 4.88944e-08
+errors.mean(): 4.02202e-09
+the calculation time for this mesh is:	2.60506 seconds
